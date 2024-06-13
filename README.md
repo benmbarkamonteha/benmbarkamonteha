@@ -4,14 +4,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benmbarkamonteha&label=Profile%20views&color=0e75b6&style=flat" alt="benmbarkamonteha" /> </p>
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Flag_of_Tunisia.svg" alt="Tunisian Flag" height="20"/>
 
 - 🔭 I’m currently working on [Forum Application](https://github.com/benmbarkamonteha/Forum_Application_Laravel.git)
 
-- 🌱 I’m currently learning **SpringBoot,Angular**
+- 🌱 I’m currently learning  **SpringBoot,Angular**
 
-- 💬 Ask me about **Laravel**
+- 💬 Ask me about  **Laravel**
 
-- ⚡ Fun fact **The first computer bug was a literal bug! In 1947, engineers found a moth stuck in a relay of the Harvard Mark II computer, coining the term 'debugging' when they removed it.**
+- ⚡ Fun fact
+   **The first computer bug was a literal bug! In 1947, engineers found a moth stuck in a relay of the Harvard Mark II computer, coining the term 'debugging' when they removed it.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
