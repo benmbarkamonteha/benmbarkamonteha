@@ -1,12 +1,9 @@
 <div style="text-align: center;">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=993&color=F08080&random=false&width=435&lines=Hello+Guys++%F0%9F%91%8B;I'm+a+new+passionate++software+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&color=F08080&random=false&width=500&lines=Hello+Guys++%F0%9F%91%8B;I'm+a+new+passionate++software+developer)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benmbarkamonteha&label=Profile%20views&color=0e75b6&style=flat" alt="benmbarkamonteha" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=benmbarkamonteha" alt="benmbarkamonteha" /></a> </p>
-
-- 🇵🇸 🇹🇳
 
 - 🔭 I’m currently working on [Forum Application](https://github.com/benmbarkamonteha/Forum_Application_Laravel.git)
 
