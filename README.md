@@ -1,6 +1,6 @@
 <div style="text-align: center;">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&color=F08080&random=false&width=500&lines=Hello+Guys++%F0%9F%91%8B;I'm+a+new+passionate++software+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&color=F08080&random=false&width=500&lines=Hello+Guys++%F0%9F%91%8B;I'm+a+new+passionate++web+developer)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benmbarkamonteha&label=Profile%20views&color=0e75b6&style=flat" alt="benmbarkamonteha" /> </p>
 
