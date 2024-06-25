@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Forum Application](https://github.com/benmbarkamonteha/Forum_Application_Laravel.git)
 
-- 🌱 I’m currently learning  **SpringBoot,Angular**
+- 🌱 I’m currently learning  **vuejs**
 
 - 💬 Ask me about  **Laravel**
 
