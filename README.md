@@ -5,9 +5,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benmbarkamonteha&label=Profile%20views&color=0e75b6&style=flat" alt="benmbarkamonteha" /> </p>
 
 
-- 🌱 I’m currently learning  **Angular** **SpringBoot**
+- 🌱 I’m currently learning  **Flutter** **NodeJs**
 
-- 💬 Ask me about  **Laravel**
 
 - ⚡ Fun fact
    **The first computer bug was a literal bug! In 1947, engineers found a moth stuck in a relay of the Harvard Mark II computer, coining the term 'debugging' when they removed it.**
